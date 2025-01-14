@@ -1,6 +1,3 @@
-# AIFFEL_quest_rs
-
-__AIFFEL 리서치 과정 12기 Repository입니다__
 
 ```
 AIFFEL_quest_rs
@@ -34,4 +31,4 @@ AIFFEL_quest_rs
     └── Quest09
         ├── .ipynb
         └── README.md
-```
+=======
